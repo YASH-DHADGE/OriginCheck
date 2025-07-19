@@ -34,7 +34,7 @@ A free, browser-based tool for educators to quickly check for AI-generated conte
 ## 📸 Sneak Peek
 
 <div align="center">
-  <img src="https://placehold.co/800x450/f0f9ff/3b82f6?text=OriginCheck%20Screenshot" alt="Screenshot of OriginCheck interface" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="Screenshot 2025-07-19 212158.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p><i>The clean and intuitive interface of OriginCheck.</i></p>
 </div>
 
